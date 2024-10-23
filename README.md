@@ -20,15 +20,17 @@ git clone https://github.com/weiweivv2222/Categorical-Data-Representation.git
 cd Categorical-Data-Representation
 
 pip install -r requirements.txt
-
+```
 ### Create a virtual environment
 ```bash
 conda create -m your_project_name
 conda activate your_project_name
-
+```
 
  ## A Diagram for Choosing a Categorical Feature Representation Approaches Based
 on Decision Factors
+
+
 
 ```mermaid
 flowchart TD
