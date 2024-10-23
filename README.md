@@ -1,4 +1,4 @@
-# Categorical-Feature-Representation-A-Survey-of-Approches-and-Applications
+# A Survey and Comparison of Categorical Data Representation Learning
 The repo is used to implement all mentioned representation approaches in the survey paper - A Survey and Comparison of Categorical Data
 Representation Learning.
 
